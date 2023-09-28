@@ -15,7 +15,7 @@ val modid = rootProject.name
 val mcVersion = "1.8.9"
 group = "$baseGroup.utility"
 // x-release-please-start-version
-version = "1.2.0"
+version = "1.3.0"
 // x-release-please-end
 val mixinGroup = "$group.mixin"
 
